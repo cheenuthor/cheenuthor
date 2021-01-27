@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development,Mobile app Development**
 
-- 💬 Ask me about **flutter,vue**
+- 💬 Ask me about **Flutter,Vue.Js**
 
 - 📫 How to reach me **venkatakrishnan2001@gmail.com**
 
